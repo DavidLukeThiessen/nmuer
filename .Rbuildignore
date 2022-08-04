@@ -1,0 +1,4 @@
+^LICENSE\.md$
+nmuer.Rproj
+^.*\.Rproj$
+^\.Rproj\.user$

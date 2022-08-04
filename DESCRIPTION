@@ -1,0 +1,18 @@
+Package: nmuer
+Type: Package
+Title: Non-Monotone Unified Estimate in R
+Version: 0.0.9000
+Author: person("David", "Thiessen", role=c("aut", "cre", "cph"),
+    email = "davidlukethiessen@gmail.com")
+Maintainer: David Thiessen <davidlukethiessen@gmail.com>
+Description: This package fits the non-monotone unified estimate
+    to either glm() or coxph() models.
+License: MIT + file LICENSE
+Encoding: UTF-8
+LazyData: true
+RoxygenNote: 7.2.1
+Imports: 
+    rlang
+Suggests: 
+    survival,
+    mice
